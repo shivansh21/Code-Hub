@@ -1,7 +1,3 @@
-## Welcome to my GitHub Pages
-## Shivansh Sharma
+### Hello to all visitors, Welcome to this repository.
 
-# I welcome you on my page . Please find my code useful. 
-# code_lang = .py , .cpp , .java etc
-
-# Thanks for support . please comment and share.
+You will find here the implementations of different problems asked in competitive programming contests and in various tech companies like Amazon, Microsoft etc.
