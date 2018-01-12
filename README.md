@@ -4,6 +4,6 @@ You will find here the implementation of different problems asked in competitive
 
 Contribute here for increase quality of this repository.
 
-LEARN | SHARE | CONTRIBUTE
+#### LEARN | SHARE | CONTRIBUTE
 
 E: shivanshsharma842@gmail.com
