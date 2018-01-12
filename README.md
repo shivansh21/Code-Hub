@@ -6,4 +6,4 @@ Contribute here for increase quality of this repository.
 
 LEARN | SHARE | CONTRIBUTE
 
-E: shivanshsharma@gmail.com
+E: shivanshsharma842@gmail.com
