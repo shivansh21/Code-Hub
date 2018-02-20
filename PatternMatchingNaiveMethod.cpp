@@ -15,13 +15,12 @@
     
     int shift;
     for(shift=0; shift<=n-m; shift++){
-      int flag=1,index_of_pattern=0;
-      for(int i = shift; i<=shift+m-1; i++){
-        if(P[index_of_pattern]!=T[i]){
+      int flag=1;
+      for(int i = 0; i<=m; i++){
+        if(P[i]!=T[i+shift]){
           flag = 0;
           break;
-        }	
-        index_of_pattern++;	
+        }		
       }
       // checking flag
     if(flag==1){
@@ -30,3 +29,5 @@
    }
     return 0;
   }
+
+// complexity -- (n-m)*m
